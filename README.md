@@ -7,4 +7,4 @@
 
 ## Projects
 - [git-learning-log](https://github.com/RenHill/git-learning-log) - My first Git project tracking a learning log
-- [aws-cost-monitor](https://github.com/RenHill/aws-cost-monitor)
+- [aws-cost-monitor](https://github.com/RenHill/aws-cost-monitor) - AWS cost monitoring with Terraform
